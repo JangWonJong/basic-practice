@@ -1,4 +1,4 @@
-package com.example.test;
+package com.bitcamp.web;
 
 import java.io.FileWriter;
 import java.io.IOException;
