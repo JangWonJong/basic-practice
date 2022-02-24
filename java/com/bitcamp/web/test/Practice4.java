@@ -1,8 +1,8 @@
-package com.bitcamp.web;
+package com.bitcamp.web.test;
 
 import java.util.Scanner;
 
-public class Practice3 {
+public class Practice4 {
     int num1 = 0;
     int num2 = 0;
     String opcode = "";
@@ -24,18 +24,13 @@ public class Practice3 {
         num4 = num1 - num2;
         num5 = num1 * num2;
         num6 = num1 / num2;
-        switch(opcode) {
-            case "+" : System.out.println(num3); break;
-            case "-": System.out.println(num4); break;
-            case "*": System.out.println(num5); break;
-            case "/": System.out.println(num6); break;
-            default: System.out.println("Wrong Input");
+        if (num3 == num1 + num2){
+            System.out.println(num3);
+            }else {
 
-            }
+        }
 
 
 
     }
 }
-
-

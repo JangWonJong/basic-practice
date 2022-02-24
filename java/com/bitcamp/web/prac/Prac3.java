@@ -1,4 +1,4 @@
-package com.example.test;
+package com.bitcamp.web.prac;
 
 /**
  * packageName: com.example.test

@@ -1,4 +1,4 @@
-package com.bitcamp.web;
+package com.bitcamp.web.test;
 
 public class Bicycle {
     private int cadence = 0;

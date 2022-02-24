@@ -1,4 +1,4 @@
-package com.bitcamp.web;
+package com.bitcamp.web.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

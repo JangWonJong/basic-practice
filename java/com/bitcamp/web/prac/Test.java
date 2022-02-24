@@ -1,4 +1,4 @@
-package com.bitcamp.web;
+package com.bitcamp.web.prac;
 
 import java.io.FileWriter;
 import java.io.IOException;

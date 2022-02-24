@@ -1,4 +1,4 @@
-package com.bitcamp.web;
+package com.bitcamp.web.test;
 
 public class LoginApp {
     public static String website = "Naver";
