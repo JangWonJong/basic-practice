@@ -13,7 +13,7 @@ package com.example.test;
  * 중첩 for문 이용
  * 방정식 4x+5y=60의 모든 해를 구해서
  * (x,y)형태로 출력해보세요
- * x,y는 10이하의 자연수
+ * x,y는 10이하의 자연수//
  */
 public class Prac3 {
     public static void main(String[] args) {
